@@ -1,2 +1,3 @@
-# EmployeeAttrition
-Github session
+# Employee Attrition
+![image.png](images/HRTalent.png)
+
